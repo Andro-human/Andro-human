@@ -47,3 +47,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Andro-human/Andro-human/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/Andro-human/Andro-human/blob/output/github-contribution-grid-snake.gif)
