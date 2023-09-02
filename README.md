@@ -30,9 +30,6 @@
    <a href="https://twitter.com/Andro_human">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Andro_human">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
 </div>
 
  <hr/>
