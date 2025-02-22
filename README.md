@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
- - 👨‍💻 Visit my Portfolio at [Animesh Portfolio](https://animeshsinha.info)
+ - 👨‍💻 Visit my Portfolio at [Animesh Portfolio](https://animeshsinha.dev)
 
 - 💬 Ask me about **C++, Python, JavaScript and NodeJS**
 
