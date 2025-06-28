@@ -5,14 +5,15 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
-<p align="center">My name is Animesh and I am currently a third year student pursuing B.Tech 🌐 in Computer Science. I am an enthusiastic person who loves to take up new challenges 💻 and is always eager to expand my skill-set and learn as I move forward. I am passionate about building applications 🛠️ that make an impact in the real world. In my free time⌛, I love to learn about the latest technologies.</p>
+<p align="centerHi, I’m Animesh, a Software Developer at Opslyft. I’m an enthusiastic and curious engineer who thrives on solving real-world problems through code. I enjoy taking on new challenges 💻 and constantly expanding my skill set — whether it's learning a new framework or diving deeper into system design. I’m passionate about building applications 🛠️ that make a meaningful impact in the real world. In my free time⌛, I love to learn about the latest technologies.</p>
+
 <br/>
     <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **a Chatting Website**
+- 🔭 I’m currently working on **a Rate Limiter microservice**
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **GOLang**
 
  - 👨‍💻 Visit my Portfolio at [Animesh Portfolio](https://animeshsinha.dev)
 
